@@ -1,0 +1,5 @@
+train: /Users/luzmariaescalona/Documents/procesamientoYOLOV/datasets/mi_dataset/images/train
+val: /Users/luzmariaescalona/Documents/procesamientoYOLOV/datasets/mi_dataset/images/val
+
+nc: 1
+names: ['peluche']

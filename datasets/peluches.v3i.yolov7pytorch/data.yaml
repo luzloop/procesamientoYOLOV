@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['capibara', 'labubu', 'peluche']
+
+roboflow:
+  workspace: object-detection-3ljtf
+  project: peluches-hnorw
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-3ljtf/peluches-hnorw/dataset/3
